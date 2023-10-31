@@ -1,0 +1,122 @@
+export default [
+    {
+      id: 1,
+      fullname: "reactjs/redux",
+      description: "Predictable state container for JavaScript apps.",
+      language: "JavaScript",
+      stargazersCount: 48895,
+      forksCount: 16725,
+      reviewCount: 892,
+      ratingAverage: 4.7,
+      url: "https://github.com/reactjs/redux",
+      ownerAvatarUrl: "https://avatars.githubusercontent.com/u/13142323?v=4"
+    },
+    {
+      id: 2,
+      fullname: "angular/angular.js",
+      description: "HTML enhanced for web apps!",
+      language: "JavaScript",
+      stargazersCount: 59623,
+      forksCount: 29895,
+      reviewCount: 724,
+      ratingAverage: 4.6,
+      url: "https://github.com/angular/angular.js",
+      ownerAvatarUrl: "https://avatars.githubusercontent.com/u/139426?v=4"
+    },
+    {
+      id: 3,
+      fullname: "vuejs/vue-router",
+      description: "The official router for Vue.js.",
+      language: "JavaScript",
+      stargazersCount: 21765,
+      forksCount: 6016,
+      reviewCount: 176,
+      ratingAverage: 4.8,
+      url: "https://github.com/vuejs/vue-router",
+      ownerAvatarUrl: "https://avatars.githubusercontent.com/u/6128107?v=4"
+    },
+    {
+      id: 4,
+      fullname: "expressjs/express",
+      description: "Fast, unopinionated, minimalist web framework for Node.js.",
+      language: "JavaScript",
+      stargazersCount: 50710,
+      forksCount: 11609,
+      reviewCount: 493,
+      ratingAverage: 4.8,
+      url: "https://github.com/expressjs/express",
+      ownerAvatarUrl: "https://avatars.githubusercontent.com/u/5658226?v=4"
+    },
+    {
+      id: 5,
+      fullname: "babel/babel",
+      description: "Babel is a compiler for writing next generation JavaScript.",
+      language: "JavaScript",
+      stargazersCount: 37319,
+      forksCount: 6499,
+      reviewCount: 268,
+      ratingAverage: 4.8,
+      url: "https://github.com/babel/babel",
+      ownerAvatarUrl: "https://avatars.githubusercontent.com/u/9637642?v=4"
+    },
+    {
+      id: 6,
+      fullname: "nestjs/nest",
+      description: "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications.",
+      language: "TypeScript",
+      stargazersCount: 46284,
+      forksCount: 4580,
+      reviewCount: 246,
+      ratingAverage: 4.7,
+      url: "https://github.com/nestjs/nest",
+      ownerAvatarUrl: "https://avatars.githubusercontent.com/u/25979096?v=4"
+    },
+    {
+      id: 7,
+      fullname: "lodash/lodash",
+      description: "A modern JavaScript utility library delivering modularity, performance & extras.",
+      language: "JavaScript",
+      stargazersCount: 51618,
+      forksCount: 3345,
+      reviewCount: 192,
+      ratingAverage: 4.8,
+      url: "https://github.com/lodash/lodash",
+      ownerAvatarUrl: "https://avatars.githubusercontent.com/u/2565403?v=4"
+    },
+    {
+      id: 8,
+      fullname: "axios/axios",
+      description: "Promise based HTTP client for the browser and node.js.",
+      language: "JavaScript",
+      stargazersCount: 88269,
+      forksCount: 9581,
+      reviewCount: 381,
+      ratingAverage: 4.9,
+      url: "https://github.com/axios/axios",
+      ownerAvatarUrl: "https://avatars.githubusercontent.com/u/13629408?v=4"
+    },
+    {
+      id: 9,
+      fullname: "docker/compose",
+      description: "Define and run multi-container applications with Docker.",
+      language: "Go",
+      stargazersCount: 25461,
+      forksCount: 5288,
+      reviewCount: 178,
+      ratingAverage: 4.8,
+      url: "https://github.com/docker/compose",
+      ownerAvatarUrl: "https://avatars.githubusercontent.com/u/5429470?v=4"
+    },
+    {
+      id: 10,
+      fullname: "prettier/prettier",
+      description: "Prettier is an opinionated code formatter.",
+      language: "JavaScript",
+      stargazersCount: 39245,
+      forksCount: 2865,
+      reviewCount: 258,
+      ratingAverage: 4.9,
+      url: "https://github.com/prettier/prettier",
+      ownerAvatarUrl: "https://avatars.githubusercontent.com/u/25822731?v=4"
+    }
+  ];
